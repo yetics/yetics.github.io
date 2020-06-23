@@ -6,6 +6,7 @@ meta_description: "Jekyll theme for blogging."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
+url: "http://127.0.0.1:4000"
 baseurl: '/'
 email: 'tech@yetics.com'
 google_analytics: 'UA-46278016-1'
@@ -16,7 +17,7 @@ sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/
 authors:
   andreas:
     name: Andreas
-    display_name: Sal
+    display_name: Andreas
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: tech@yetics.com
     web: https://yetics.github.io/category/jekyll-themes/
