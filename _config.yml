@@ -7,7 +7,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: '/'
-email: 'tech@yetics.com'
+email: 'contact@yetics.com'
 google_analytics: 'UA-46278016-1'
 disqus: 'yetics'
 sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
@@ -17,17 +17,15 @@ authors:
   andreas:
     name: Andreas
     display_name: Andreas
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: tech@yetics.com
-    web: https://yetics.github.io/category/jekyll-themes/
+    email: contact@yetics.com
+    web: https://yetics.github.io
     twitter: https://twitter.com/yetics
     description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   robert:
     name: Robert
     display_name: John
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: tech@yetics.com
-    web: https://yetics.github.io/category/jekyll-themes/
+    email: contact@yetics.com
+    web: https://yetics.github.io
     twitter: https://twitter.com/yetics
     description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
 
