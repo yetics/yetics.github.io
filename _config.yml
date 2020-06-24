@@ -3,7 +3,7 @@ name: "yetics.github.io"
 title: "Yetics"
 description: "Yetics Consulting"
 meta_description: "Jekyll theme for blogging."
-logo: 'assets/images/Logo_yetics_final.png'
+logo: 'assets/images/Logo_yetics_small.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: '/'
